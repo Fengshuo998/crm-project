@@ -9,13 +9,11 @@
 <html>
 <head>
     <title>Title</title>
-    <script type="text/javascript" src="${pageContext.request.contextPath}/static/js/jquery-3.5.1.js"></script>
-
 
 </head>
 <body>
 
-${emp}
+${a}
 
 
 </body>

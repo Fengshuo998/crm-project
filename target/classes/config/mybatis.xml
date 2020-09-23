@@ -13,7 +13,7 @@
     <!--设置别名-->
     <typeAliases>
         <!--name是实体类所在包名-->
-        <package name="com.myCode.entity"/>
+        <package name="com.myCode.domain"/>
     </typeAliases>
 
     <!--映射文件位置-->
